@@ -280,7 +280,7 @@ nav ul a:hover{
 }
 .project-item {
   border: 1px solid #444;
-  border-radius: 10px;
+  border-radius: 11px;
   overflow: hidden;
   background-color: rgb(20, 20, 60);
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
